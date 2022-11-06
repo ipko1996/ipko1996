@@ -3,8 +3,7 @@
 
 ### I'm currently a college student in Veszprém at [University Of Pannonia](https://eng.uni-pannon.hu/)
 
-- 🏫 College Student since 2019
-- 👌 1 year until graduation
+- 🏫 College Student
 - 🥅 Goals: Full Stack web developer
 - 💡 You can see my projects here on github
 
