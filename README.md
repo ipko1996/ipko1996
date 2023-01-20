@@ -1,9 +1,7 @@
 ### Hi 👋, I'm Bálint Ipkovich
 ### [ipko.dev](https://ipko.dev/)
 
-### I'm currently a college student in Veszprém at [University Of Pannonia](https://eng.uni-pannon.hu/)
-
-- 🏫 College Student
+- 🏫 Graduated from Computer Scientist at [University Of Pannonia](https://eng.uni-pannon.hu/) in 2023
 - 🥅 Goals: Full Stack web developer
 - 💡 You can see my projects here on github
 
