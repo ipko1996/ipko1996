@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Bálint Ipkovich
-### [ipko.dev](https://ipko.dev/)
+### [cv.ipko.hu](https://cv.ipko.hu/)
 
 - 🏫 Graduated from Computer Scientist BSc at [University Of Pannonia](https://eng.uni-pannon.hu/) in 2023
 - 🥅 Goals: Full Stack web developer
